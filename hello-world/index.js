@@ -1,3 +1,1 @@
-func = () => {
-  console.log("Hello-GitHub!");
-};
+console.log("Hello Github!");
